@@ -20,7 +20,7 @@ $router->get("/", function () {
 
 	$users = User::withTrashed()->get();
 
-	dd($users);
+	dd($users->first);
 
 	view('home', [
 		'name' => "Jarkó Ricsi",

@@ -13,7 +13,7 @@ class create_users_table
 			$table->string('lastname', 100);
 			$table->timestamp('birthday');
 			$table->string('email')->unique();
-			$table->string('backup_email')->unique();
+			$table->string('recovery_email')->unique();
 			$table->string('password');
 			$table->string('remember_token')->nullable();
 			$table->timestamps();
