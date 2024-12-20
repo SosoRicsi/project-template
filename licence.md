@@ -1,4 +1,3 @@
-
 # LICENSE
 
 A következő licenc érvényes a projekt teljes tartalmára: **Creator Guard License by Jarkó Richárd (CGLJR)**
@@ -36,4 +35,4 @@ A kódot "ahogy van" alapon biztosítjuk, bármiféle garancia nélkül, beleér
 ---
 
 **Készítő:** Jarkó Richárd `<jarkoricsi16@gmail.com>`
-**Dátum:** 2024. 12. 05
+**Dátum:** 2024. 12. 20.
